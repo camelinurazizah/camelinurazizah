@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Camelia 👋
+## About Me:
+#### I am an active student at Universitas Muhammadiyah Cirebon, dedicated to continuously deepening my expertise in the fields of web development and information technology.
 
 <!--
 **camelinurazizah/camelinurazizah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
