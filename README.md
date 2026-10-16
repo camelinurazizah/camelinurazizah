@@ -1,10 +1,7 @@
 ## Hi there, I'm Camelia 👋
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Undergraduate%20Student-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Major-Teknik%20Informatika-orange?style=flat-square" alt="Major">
-  <img src="https://img.shields.io/badge/University-UMC-green?style=flat-square" alt="University">
-</p>
+
 ## About Me:
+
 #### I am an active student at Universitas Muhammadiyah Cirebon, dedicated to continuously deepening my expertise in the fields of web development and information technology.
 
 ### 🛠️ Keterampilan & Kompetensi
