@@ -1,18 +1,24 @@
 ## Hi there, I'm Camelia 👋
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Undergraduate%20Student-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Major-Teknik%20Informatika-orange?style=flat-square" alt="Major">
+  <img src="https://img.shields.io/badge/University-UMC-green?style=flat-square" alt="University">
+</p>
 ## About Me:
 #### I am an active student at Universitas Muhammadiyah Cirebon, dedicated to continuously deepening my expertise in the fields of web development and information technology.
 
-<!--
-**camelinurazizah/camelinurazizah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Keterampilan & Kompetensi
 
-Here are some ideas to get you started:
+| Kategori | Teknologi & Keahlian |
+| :--- | :--- |
+| **Bahasa Pemrograman** | Python, C#, JavaScript, PHP, HTML, CSS, SQL, C/C++ |
+| **Basis Data & Tools** | MySQL, Laragon, Visual Studio, VS Code, draw.io |
+| **Desain & Analisis** | UML, UI/UX Dasar, Canva |
+| **Administrasi & Produktivitas** | Microsoft Office (Word, Excel, PowerPoint) |
+| **Soft Skills** | Manajemen Waktu, Komunikasi Teknis, Problem Solving |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education: 
+
+- **Universitas Muhammadiyah Cirebon (UMC)** | S1 Teknik Informatika (2023 – Sekarang)
+- **SMKN 4 Kuningan** | Rekayasa Perangkat Lunak / RPL (2020 – 2023)
+
